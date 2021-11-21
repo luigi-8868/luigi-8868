@@ -2,7 +2,7 @@
 - 👀 I’m interested in yes
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me - grab ip and send mail
+- 📫 How to reach me - grab ip and send mail because who uses the internet anyways
 
 <!---
 luigi-8868/luigi-8868 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
